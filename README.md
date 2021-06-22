@@ -2,7 +2,7 @@
 #### Unity Game Development and .NET
 Greetings, I am a Portland-bound Home Chef with a penchant for self-education.  I enjoy working on collaborative projects with friends/game-jammers using Unity, but I utilize various .NET Frameworks to innovate and automate certain tasks at my day-job.  
 
-No matter the Framework I find myself working in, the fascination comes from writing clean code.  Much like cooking, programming is a beautiful secret form of human communication shared among the most interesting of company.  
+No matter the Framework I find myself working in, the fascination comes from writing clean code.  Much like cooking, programming is a secret form of human communication shared among the most interesting of company.  
 
 ## Skills
 * C#
