@@ -1,6 +1,6 @@
 ### Seth Bradley
 #### Unity Game Development and .NET
-Greetings, I am a Portland-bound Home Chef with a penchant for self-education.  I enjoy working on collaborative projects with friends/game-jammers using Unity, but I utilize various .NET Frameworks to innovate and automate certain tasks at my day-job.  
+Greetings, I am a Portland-bound Home Chef with a penchant for self-education.  I enjoy working on collaborative projects with friends/game-jammers using Unity, but I utilize various .NET Frameworks to innovate and automate certain tasks for my day-job.  
 
 No matter the Framework I find myself working in, the excitement is in writing clean and concise code then seeing how readable I can make it while keeping optimization/functionality intact.  Much like cooking, programming is a secret form of human communication shared among the most interesting company, and this intruiges me like no other.  
 
