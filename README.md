@@ -1,5 +1,5 @@
 ### Seth Bradley
-#### .NET, Angular, SQL Server, Unity Game Development, Windows, Linux, Arduino Framework and PlatformIO.
+#### .NET, Angular, SQL Server, Unity, Windows, Linux, Arduino Framework,PlatformIO, Azure and things.
 
 Full Stack Developer. Home Cook. DIY Electronics Hobbyist. Game Development. Piano. Dog Dad. Bonafide SSRS Hater.
 
